@@ -4,7 +4,10 @@ A. Komunikasi daring sinkron
 B. Komunikasi daring asinkron
 - email 
 C. Github
-- membuat akun 
-- membuat repository
+- membuat akun
+- membuat repository 
+- membuat file baru
+- membuat komit
 D. Git
 - belum
+kami
