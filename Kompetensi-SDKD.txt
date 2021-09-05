@@ -9,3 +9,5 @@ C. Github
 - membuat file baru
 - membuat komit
 D. Git
+- belum
+kami
